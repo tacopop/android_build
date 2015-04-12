@@ -21,8 +21,6 @@ PRODUCT_PACKAGES := \
     Bluetooth \
     CameraNext \
     Gallery2 \
-    Music \
-    MusicFX \
     OneTimeInitializer \
     Provision \
     SystemUI \
